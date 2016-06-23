@@ -12,6 +12,11 @@ body, button, input {
   font-family: 'Baloo', cursive;
 }
 
+#energy-usage {
+  text-align: center;
+  border-radius: 30%;
+}
+
 button, input[type='submit'] {
   display: block;
   background-color: white;
