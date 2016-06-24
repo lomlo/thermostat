@@ -1,4 +1,4 @@
-$ (document).ready(function(){
+$(document).ready(function(){
   //I want to display the temperature in the h1
   var thermostat = new Thermostat();
   $('#temperature').text(thermostat.temperature());
